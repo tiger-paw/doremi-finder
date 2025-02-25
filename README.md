@@ -14,10 +14,10 @@
 楽譜を読まずに音符を理解し、ドレミ表記で演奏できるようにすることで、音楽の楽しさをより多くの人に届けることを目指します。
 
 ## トップページ (音符再生)
-![トップページ 2025-02-25 20 59 54](https://github.com/user-attachments/assets/4303815e-688d-44ce-ad21-25e2a2103297)
+![トップページ 2025-02-25 20 59 54](https://github.com/user-attachments/assets/4c14b875-730c-459f-8182-25cf5fb7b3f3)
 
 ## バーシャルピアノ再生
-<img width="1710" alt="バーチャルピアノ機能 2025-02-25 20 54 47" src="https://github.com/user-attachments/assets/60a3114f-44b0-4a6c-9b0f-545dbd6f44c7" />
+<img width="1710" alt="バーチャルピアノ機能 2025-02-25 20 54 47" src="https://github.com/user-attachments/assets/b42a0a08-faba-40ea-8872-9bdb437e81d2" />
 
 
 ### 楽譜の保存
@@ -26,16 +26,16 @@
 
 ## マイページ
 ### ユーザー情報
-![マイページ ユーザー情報 2025-02-25 21 09 29](https://github.com/user-attachments/assets/d4408dae-3849-4913-8e18-6a031943f535)
+![マイページ ユーザー情報 2025-02-25 21 09 29](https://github.com/user-attachments/assets/005bbe2f-e797-4a64-b1b1-6a2c9c708aa6)
 
 ### 自分の楽譜一覧
-![自分の楽譜一覧 2025-02-25 21 09 40](https://github.com/user-attachments/assets/bcb86f1e-2aea-4fe0-becb-cb42a16b21e3)
+![自分の楽譜一覧 2025-02-25 21 09 40](https://github.com/user-attachments/assets/444336aa-7280-4dab-9f18-50724aee4954)
 
 ### みんなの投稿
-![みんなの投稿一覧 2025-02-25 21 10 06](https://github.com/user-attachments/assets/e2e0f7c1-1645-4b0f-b85b-c38ba7bb225c)
+![みんなの投稿一覧 2025-02-25 21 10 06](https://github.com/user-attachments/assets/8b856953-1a2b-4991-ae44-423a4697ad4d)
 
 ### お気に入り一覧
-![お気に入り楽譜一覧 2025-02-25 21 10 13](https://github.com/user-attachments/assets/7196bf7f-5173-4b22-8e13-cfb4bb9a9d97)
+![お気に入り楽譜一覧 2025-02-25 21 10 13](https://github.com/user-attachments/assets/be97475d-3bd8-4448-af33-b8b627f41a4d)
 
 
 ## 主要機能
@@ -82,10 +82,11 @@
 ## GitHub (2023.10.7 - 2025.2.25現在)
 
 ### フロントエンド
-<img width="1474" alt="GitHubフロントエンド 2025-02-25 22 25 16" src="https://github.com/user-attachments/assets/e03d76e5-2fb6-4efd-81f4-a5adfb821918" />
+<img width="1474" alt="GitHubフロントエンド 2025-02-25 22 25 16" src="https://github.com/user-attachments/assets/a9d387c6-457a-48af-9534-80b7b29a61ee" />
 
 ###  バックエンド
-<img width="1035" alt="GitHub バックエンド 2025-02-25 22 18 44" src="https://github.com/user-attachments/assets/73134f06-e0dc-499a-8214-63014e514b24" />
+<img width="1394" alt="GitHub バックエンド 2025-02-25 22 23 11" src="https://github.com/user-attachments/assets/8fc81e3a-d528-40a7-b27b-f019fbea88a2" />
+
 
 
 
