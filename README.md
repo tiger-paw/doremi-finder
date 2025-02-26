@@ -21,7 +21,8 @@
 
 
 ### 楽譜の保存
-![楽譜の保存モーダル画面 2025-02-25 21 08 15](https://github.com/user-attachments/assets/83f9b67a-068e-449d-b8ba-7a5c6a917b16)
+![image](https://github.com/user-attachments/assets/0114bd71-5e1c-45cb-bcf7-a2fa78d08f78)
+
 
 
 ## マイページ
@@ -79,7 +80,7 @@
 - Tone.js: 14.7.77
 
 
-## GitHub (2023.10.7 - 2025.2.25現在)
+## GitHub
 
 ### フロントエンド
 <img width="1474" alt="GitHubフロントエンド 2025-02-25 22 25 16" src="https://github.com/user-attachments/assets/a9d387c6-457a-48af-9534-80b7b29a61ee" />
