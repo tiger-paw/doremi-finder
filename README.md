@@ -105,7 +105,8 @@
 - MUI (Material-UI): 5.15.1
 - Firebase: 10.12.0
 - Tone.js: 14.7.77
-
+- Fly.io
+- PostgreSQL
 ---
 
 ## GitHub
