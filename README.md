@@ -1,5 +1,8 @@
 # どれみファインダー / Do-Re-Mi-Finder
-### URL: https://doremifinder.com
+### どれみファインダーURL: https://doremifinder.com
+
+
+### YouTubeデモ動画: https://youtu.be/DR_08Wym8QA?si=IhRWHtjr5MbeqEWe
 
 ---
 
