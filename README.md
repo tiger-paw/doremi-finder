@@ -121,10 +121,13 @@
 ## GitHub
 
 
-### フロントエンド
+### フロントエンド: https://github.com/tiger-paw/doremifinder-frontend
+
 <img width="1474" alt="GitHubフロントエンド 2025-02-25 22 25 16" src="https://github.com/user-attachments/assets/a9d387c6-457a-48af-9534-80b7b29a61ee" />
 
-###  バックエンド
+
+### バックエンド: https://github.com/tiger-paw/doremifinder-frontend
+
 <img width="1394" alt="GitHub バックエンド 2025-02-25 22 23 11" src="https://github.com/user-attachments/assets/8fc81e3a-d528-40a7-b27b-f019fbea88a2" />
 
 
