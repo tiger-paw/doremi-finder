@@ -117,9 +117,6 @@
 ---
 
 ## GitHub
-### どれみファインダーURL: https://doremifinder.com
-- GitHub(フロントエンド): https://github.com/tiger-paw/doremifinder-frontend
-- GitHub(バックエンド): https://github.com/tiger-paw/doremifinder-frontend
 
 ### フロントエンド: https://github.com/tiger-paw/doremifinder-frontend
 
